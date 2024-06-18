@@ -203,9 +203,4 @@ git push -u origin main
 Additional Git Features:
 View history, create branches, and manage pull requests directly within VS Code using GitLens or built-in Git features.
 
- Submission Guidelines:
-- Your answers should be well-structured, concise, and to the point.
-- Provide screenshots or step-by-step instructions where applicable.
-- Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
-
+ Submitted By: Emmanuel Samuel
